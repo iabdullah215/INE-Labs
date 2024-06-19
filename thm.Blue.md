@@ -6,7 +6,7 @@ Difficulty: Easy
 
 ## Walkthrought:
 
-The machine will find the machine [here](https://tryhackme.com/r/room/blue).
+You can find the machine [here](https://tryhackme.com/r/room/blue).
 
 ### Recon:
 
