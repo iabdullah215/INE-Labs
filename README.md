@@ -3,7 +3,7 @@ This repository has all the writeups and walkthroughs of machines from all the p
 
 ## TryHackMe
 
-- [Blue]()
+- [Blue](https://github.com/iabdullah215/WriteUps/blob/main/thm.Blue.md)
 
 ## HackTheBox
 
