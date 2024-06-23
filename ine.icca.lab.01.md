@@ -1,4 +1,9 @@
-# INE ICCA LAB 01 
+```jsx
+Lab Name: Manage Cloud Resources - AWS
+Platform: INE
+Lab No: 01
+Exam: ICCA (INE Certified Cloud Associate)
+```
 
 ## Explore the console
 
