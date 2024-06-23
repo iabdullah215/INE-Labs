@@ -15,6 +15,6 @@ This repository has all the writeups and walkthroughs of machines from all the p
 
 ## INE Traning Labs
 
-- Coming Soon XD
+- [INE ICCA LAB 01](https://github.com/iabdullah215/WriteUps/blob/main/ine.icca.lab.01.md)
 
 ---
