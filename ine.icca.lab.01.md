@@ -38,6 +38,11 @@ Go to all the services and click on `EC2`.
 
 ![image](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-aws/12.png)
 
+Select the `Amazon Linux AMI` as the image for EC2 instance.
+
+![image](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-aws/14.png)
+
+
 This will open the page for EC2 service. Click on `Launch instance` to start creating an EC2 instance.
 
 ![iamge](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-aws/13.png)
