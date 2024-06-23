@@ -2,7 +2,7 @@
 
 ## Explore the console
 
-_Note: By the time you are solving this lab, interface of the AWS might change. But the procedure will remain same._
+_**Note:** By the time you are solving this lab, interface of the AWS might change. But the procedure will remain same._
 
 When you start the lab, you will be provided with the credentials. Click on login url and the use username and password for login.
 
@@ -38,11 +38,58 @@ Go to all the services and click on `EC2`.
 
 ![image](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-aws/12.png)
 
+This will open the page for EC2 service. Click on `Launch instance` to start creating an EC2 instance.
+
+![iamge](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-aws/13.png)
+
 Select the `Amazon Linux AMI` as the image for EC2 instance.
 
 ![image](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-aws/14.png)
 
+Select instance type as `t2.micro`, it's a free tier type from _t2_ family.
 
-This will open the page for EC2 service. Click on `Launch instance` to start creating an EC2 instance.
+![image](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-aws/15.png)
 
-![iamge](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-aws/13.png)
+Scroll down to the `Key pair` and click on `Create new key pair`.
+
+![image](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-aws/16.png)
+
+Give your key pair a name as demo and click on Create key pair.
+
+This will create a key pair and the pem file will also be downloaded.
+
+![image](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-aws/17.png)
+
+You can checkout the networks settings, leave all these to default. 
+
+Check for the storage settings also, leave these to default also.
+
+Scroll all the way up to the `Name and tags` and give it a name as `myFirstEC2`.
+
+![image](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-aws/20.png)
+
+At the right side of all the settings, you can see the summary for your EC2 instance. Click on `Launch instance` to start provisioning the EC2 instance. After a few seconds you will see the success message, that means EC2 instance is provisioned.
+
+## Provision the S3 bucket
+
+Go to the services and click on `S3`.
+
+Here somewhere on the page you will see an option to `Create bucket`, click on it.
+
+![image](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-aws/24.png)
+
+Give a unique name for the bucket and set a region of your choice.
+
+By default, you can see that public access is blocked for this bucket. Leave it as it is.
+
+![image](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-aws/26.png)
+
+You can go and check for all the advance settings for the bucket. Don't changes anything.
+
+Click on `Create bucket` to provision the S3 bucket.
+
+![image](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-aws/27.png)
+
+After a few seconds you will see our bucket is created.
+
+_**I have skipped the Managing resources and terminating resources part as it was very easy.**_
