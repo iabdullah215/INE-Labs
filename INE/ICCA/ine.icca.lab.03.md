@@ -67,3 +67,46 @@ You can use the dropdown highlighted below to switch the dashboards. You may see
 
 ![image](https://github.com/iabdullah215/WriteUps/assets/121729444/391d2e59-0929-4e95-a4a0-436221a1c505)
 
+## Provision Azure resources
+
+For this requirement, you will provision two resources - a virtual machine and a storage account. You can run your custom compute workloads on the virtual machine. The storage account is a cloud storage space. You will primarily use standard options for each - the goal is to become familiar with the process of provisioning resources, not these two resources in particular.
+
+## Provision the Azure virtual machine
+
+Go to the home screen of azure portal, you can do that by clicking the `Microsoft azure` icon.
+
+Click on `Create a resource`.
+
+![image](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-azure/17.png)
+
+Here you will find multiple quick starts. Click on `Create` under the `Ubuntu server`.
+
+![image](https://github.com/iabdullah215/WriteUps/assets/121729444/4b91a32c-cae9-410a-b54a-6209a29000a9)
+
+Configure your VM as below.
+- Use the resource group which is assigned to you.
+- Name you virtual machine as myFirstAzureVM.
+- Use any region you prefer.
+
+![image](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-azure/19.png)
+
+Under the size of VM, click on `See all sizes` to select a size for your VM.
+
+![image](https://github.com/iabdullah215/WriteUps/assets/121729444/a016c5a2-70a1-4e39-8ab7-ec7c0a1b203c)
+
+Here you can select the size for your VM, Select `B2s` size, and click on `Select`.
+
+![image](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-azure/21.png)
+
+Leave everthing as it is. You may explore all the option by clicking Next. But for this task, you can just click on `Review + Create`.
+
+![image](https://assets.ine.com/content/labs/azure-course-labs/manage-cloud-resources-azure/22.png)
+
+Azure will now validate the config for your VM. If you have configured everything properly, you will `Validation passed`. Click on `Create` to provision the VM.
+
+![image](https://github.com/iabdullah215/WriteUps/assets/121729444/d107d475-e002-440c-8ff4-e60637c1d80b)
+
+A pop will appear to you for the key pair. Click on Download to download the key pair.
+
+![image](https://github.com/iabdullah215/WriteUps/assets/121729444/89a49581-b1ad-4d27-9c4f-e685c4b1d5c9)
+
