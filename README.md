@@ -16,5 +16,7 @@ This repository has all the writeups and walkthroughs of machines from all the p
 ## INE Traning Labs
 
 - [Manage Cloud Resources - AWS](https://github.com/iabdullah215/WriteUps/blob/main/ine.icca.lab.01.md)
+- [Manage Cloud Resources - Asure](https://github.com/iabdullah215/WriteUps/blob/main/ine.icca.lab.02.md)
+- [Manage Cloud Resources - GCP](https://github.com/iabdullah215/WriteUps/blob/main/ine.icca.lab.03.md)
 
 ---
