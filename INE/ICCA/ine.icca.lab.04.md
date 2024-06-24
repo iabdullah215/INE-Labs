@@ -9,7 +9,7 @@ Exam: ICCA (INE Certified Cloud Associate)
 
 For this task, you will estimate the cost to provision and operate specific resources in AWS. You can find the cost calculator at: https://calculator.aws/#/.
 
-1. Click on Create estimate.
+1. Click on `Create estimate`.
 2. Search for EC2 and click on `Configure` for `Amazon EC2`.
 
 ![image](https://github.com/iabdullah215/WriteUps/assets/121729444/6c14ff23-4095-4749-ab62-1390c9b0f3b3)
