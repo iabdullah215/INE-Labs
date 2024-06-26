@@ -237,6 +237,7 @@ Complete!
 - Now verify it by running `curl localhost`.
 
 ```console
+[ec2-user@ip-172-31-30-104 ~]$ curl localhost
 <html>
 <head>
 <title>Welcome to nginx!</title>
@@ -258,8 +259,7 @@ Commercial support is available at
 
 <p><em>Thank you for using nginx.</em></p>
 </body>
-</html>
-[ec2-user@ip-172-31-30-104 ~]$        
+</html>       
 ```
 
 - Now, logout from terminal by using `exit`
