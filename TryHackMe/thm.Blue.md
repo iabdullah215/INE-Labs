@@ -4,6 +4,8 @@ Platform: TryHackMe
 Difficulty: Easy
 ```
 
+> _Note: The walkthrough gives a highlevel overview of how the box was solved_
+
 ## Walkthrought:
 
 You can find the machine [here](https://tryhackme.com/r/room/blue).
