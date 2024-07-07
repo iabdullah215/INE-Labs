@@ -135,7 +135,7 @@ Nmap done: 1 IP address (1 host up) scanned in 110.64 seconds
            Raw packets sent: 1004 (44.152KB) | Rcvd: 1001 (40.064KB)
 ```
 
-By the scan it is evident from that the machine is vulnerabile to `ms17-010`.
+By the scan it is evident that the machine is vulnerabile to `ms17-010`.
 
 ```console
 Host script results:
