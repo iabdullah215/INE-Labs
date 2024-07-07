@@ -12,7 +12,7 @@ You can find the machine [here](https://tryhackme.com/r/room/blue).
 
 ### Recon:
 
-Lets start the things by a simple Nmap vulnerability scan. By `vuln` runs `sudo nmap -sS -sC -sV -vv --script vuln $IP` command.
+Lets start the things by a simple Nmap vulnerability scan. My `vuln` runs `sudo nmap -sS -sC -sV -vv --script vuln $IP` command.
 
 ```console
 ┌──(MnM@kali)-[~/Desktop/CTFs/THM/Blue]
