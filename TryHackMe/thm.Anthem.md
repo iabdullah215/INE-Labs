@@ -32,7 +32,7 @@ Nmap done: 1 IP address (1 host up) scanned in 65.90 seconds
 
 Let's access the web server.
 
-![image](images/TryHackMe/image1.png)
+![image](TryHackMe/images/image1.png)
 
 Let's see the `robots.txt`. To access it type `http://<ip>/robots.txt` in the url section of your browser.
 
