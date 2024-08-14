@@ -34,7 +34,7 @@ So the system's IP-Address is `10.10.39.5` and the subnet is `24`.
 
 ```console
 ┌──(root㉿INE)-[~]
-└─# nmap -sn 10.10.39.5/24                                                                                                                                                                 
+└─# nmap -sn 10.10.39.5/24
 Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-08-14 20:18 IST
 Nmap scan report for us-east-8 (10.10.39.1)
 Host is up (0.000035s latency).
