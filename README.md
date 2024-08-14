@@ -23,5 +23,5 @@ This repository has all the writeups and walkthroughs of machines from all the p
 - [Cloud Cost Management - Asure](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.05.md)
 - [Cloud Cost Management - GCP](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.06.md)
 - [Provision a Compute Instance - AWS](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.07.md)
-
+- [Windows Recon: Nmap Host Discovery](https://github.com/iabdullah215/WriteUps/blob/main/INE/eJPT/ine.ejpt.lab.01md)
 ---
