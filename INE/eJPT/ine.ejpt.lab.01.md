@@ -7,7 +7,7 @@ Exam: eJPT (Jr. Penetartion Tester)
 
 ## Find System's IP-Address:
 
-```console
+```shell
 ┌──(root㉿INE)-[~]
 └─# ip a
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
