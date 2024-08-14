@@ -96,7 +96,7 @@ Nmap done: 1 IP address (1 host up) scanned in 0.07 seconds
 
 ```console
 ┌──(root㉿INE)-[~]
-└─# nmap -Pn -sV -p 3389 10.10.39.3                                                                                                                                                        
+└─# nmap -Pn -sV -p 3389 10.10.39.3
 Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-08-14 21:57 IST
 Nmap scan report for INE (10.10.39.3)
 Host is up (0.000044s latency).
@@ -112,7 +112,7 @@ Nmap done: 1 IP address (1 host up) scanned in 11.26 seconds
 
 ```console
 ┌──(root㉿INE)-[~]
-└─# nmap -Pn -sV -p 3389 10.10.39.3 -v                                                                                                                                                     
+└─# nmap -Pn -sV -p 3389 10.10.39.3 -v
 Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-08-14 21:59 IST
 NSE: Loaded 46 scripts for scanning.
 Initiating SYN Stealth Scan at 21:59
