@@ -15,5 +15,6 @@ This repository has all the writeups and walkthroughs of machines and Labs from 
 | - [Windows Recon: Nmap Host Discovery](https://github.com/iabdullah215/WriteUps/blob/main/INE/eJPT/ine.ejpt.lab.01.md)     | eJPT  |
 | - [Scan The Serer 1](INE/eJPT/ine.ejpt.lab.02.md)                                                                          | eJPT  |
 | - [Windows Recon: SMB Nmap Scripts](INE/eJPT/ine.ejpt.lab.03.md)                                                           | eJPT  |
+| - [Scan The Serer 11](INE/eJPT/ine.ejpt.lab.04.md)                                                                         | eJPT  |
 | - [Scan The Serer 111](INE/eJPT/ine.ejpt.lab.05.md)                                                                        | eJPT  |
 ---
