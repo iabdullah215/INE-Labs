@@ -1,29 +1,19 @@
-# WriteUps
-This repository has all the writeups and walkthroughs of machines from all the popular platforms... 
+# INE Lab Walkthroughs
+This repository has all the writeups and walkthroughs of machines from INE that I solved during my Exam Preps. 
 
-## TryHackMe
+## Index
 
-- [Blue](https://github.com/iabdullah215/WriteUps/blob/main/TryHackMe/thm.Blue.md)
-- [Anthem](https://github.com/iabdullah215/WriteUps/blob/main/TryHackMe/thm.Anthem.md)
-
-## HackTheBox
-
-- Coming Soon XD
-
-## VulnHub
-
-- Coming Soon XD
-
-## INE Traning Labs
-
-- [Manage Cloud Resources - AWS](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.01.md)
-- [Manage Cloud Resources - Asure](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.03.md)
-- [Manage Cloud Resources - GCP](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.02.md)
-- [Cloud Cost Management - AWS](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.04.md)
-- [Cloud Cost Management - Asure](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.05.md)
-- [Cloud Cost Management - GCP](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.06.md)
-- [Provision a Compute Instance - AWS](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.07.md)
-- [Windows Recon: Nmap Host Discovery](https://github.com/iabdullah215/WriteUps/blob/main/INE/eJPT/ine.ejpt.lab.01.md)
-- [Scan The Serer 1](INE/eJPT/ine.ejpt.lab.02.md)
-- [Windows Recon: SMB Nmap Scripts](INE/eJPT/ine.ejpt.lab.03.md)
+| Name                                                                                                                       | Exam  |
+| -------------------------------------------------------------------------------------------------------------------------- | ----- |
+| - [Manage Cloud Resources - AWS](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.01.md)           | ICCA  |
+| - [Manage Cloud Resources - Asure](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.03.md)         | ICCA  |
+| - [Manage Cloud Resources - GCP](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.02.md)           | ICCA  |
+| - [Cloud Cost Management - AWS](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.04.md)            | ICCA  |
+| - [Cloud Cost Management - Asure](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.05.md)          | ICCA  |
+| - [Cloud Cost Management - GCP](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.06.md)            | ICCA  |
+| - [Provision a Compute Instance - AWS](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.07.md)     | ICCA  |
+| - [Windows Recon: Nmap Host Discovery](https://github.com/iabdullah215/WriteUps/blob/main/INE/eJPT/ine.ejpt.lab.01.md)     | eJPT  |
+| - [Scan The Serer 1](INE/eJPT/ine.ejpt.lab.02.md)                                                                          | eJPT  |
+| - [Windows Recon: SMB Nmap Scripts](INE/eJPT/ine.ejpt.lab.03.md)                                                           | eJPT  |
+| -------------------------------------------------------------------------------------------------------------------------- | ----- |
 ---
