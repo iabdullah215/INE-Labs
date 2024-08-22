@@ -25,6 +25,8 @@ In **My Computer Section** Right Click on Network and select the **Map Network D
 
 We have successfully mounted the target machine shared folders. Write the following command in the CMD to do the same function.
 
+![image](/Images/4.png)
+
 ```console
 net use Z: \\<ip-address>\C$ smbserver_771 /user:administrator
 ```
