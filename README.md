@@ -1,8 +1,6 @@
 # INE Lab Walkthroughs
 This repository has all the writeups and walkthroughs of machines and Labs from INE that I solved during my Exam Preps. 
 
-## Index
-
 ### ICCA
 
 | Name                                                                                                                       | Exam  |
