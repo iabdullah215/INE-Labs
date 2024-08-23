@@ -1,5 +1,5 @@
 ```jsx
-Lab Name: SSH Recon: Basic
+Lab Name: SSH Recon: Dictionary Attack
 Platform: INE
 Lab No: 10
 Exam: eJPT (Jr. Penetartion Tester)
