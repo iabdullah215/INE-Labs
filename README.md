@@ -19,4 +19,5 @@ This repository has all the writeups and walkthroughs of machines and Labs from 
 | - [Scan The Serer 111](INE/eJPT/ine.ejpt.lab.05.md)                                                                        | eJPT  |
 | - [Windows Recon: SMB Discover and Mount](INE/eJPT/ine.ejpt.lab.06.md)                                                     | eJPT  |
 | - [Windows Recon: SMBMap](INE/eJPT/ine.ejpt.lab.07.md)                                                                     | eJPT  |
+| - [VSFTPD Recon: Basics](INE/eJPT/ine.ejpt.lab.08.md)                                                                      | eJPT  |
 ---
