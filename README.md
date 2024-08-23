@@ -3,6 +3,8 @@ This repository has all the writeups and walkthroughs of machines and Labs from 
 
 ## Index
 
+### ICCA
+
 | Name                                                                                                                       | Exam  |
 | -------------------------------------------------------------------------------------------------------------------------- | ----- |
 | - [Manage Cloud Resources - AWS](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.01.md)           | ICCA  |
@@ -12,6 +14,12 @@ This repository has all the writeups and walkthroughs of machines and Labs from 
 | - [Cloud Cost Management - Asure](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.05.md)          | ICCA  |
 | - [Cloud Cost Management - GCP](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.06.md)            | ICCA  |
 | - [Provision a Compute Instance - AWS](https://github.com/iabdullah215/WriteUps/blob/main/INE/ICCA/ine.icca.lab.07.md)     | ICCA  |
+---
+
+### eJPT
+
+| Name                                                                                                                       | Exam  |
+| -------------------------------------------------------------------------------------------------------------------------- | ----- |
 | - [Windows Recon: Nmap Host Discovery](https://github.com/iabdullah215/WriteUps/blob/main/INE/eJPT/ine.ejpt.lab.01.md)     | eJPT  |
 | - [Scan The Serer 1](INE/eJPT/ine.ejpt.lab.02.md)                                                                          | eJPT  |
 | - [Windows Recon: SMB Nmap Scripts](INE/eJPT/ine.ejpt.lab.03.md)                                                           | eJPT  |
