@@ -1,7 +1,7 @@
 ```jsx
 Lab Name: SSH Recon: Basic
 Platform: INE
-Lab No: 09
+Lab No: 10
 Exam: eJPT (Jr. Penetartion Tester)
 ```
 
