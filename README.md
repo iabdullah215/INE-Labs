@@ -28,4 +28,5 @@ This repository has all the writeups and walkthroughs of machines and Labs from 
 | - [VSFTPD Recon: Basics](INE/eJPT/ine.ejpt.lab.08.md)                                                                      | eJPT  |
 | - [SSH Recon: Basic](INE/eJPT/ine.ejpt.lab.09.md)                                                                          | eJPT  |
 | - [SSH Recon: Dictionary Attack](INE/eJPT/ine.ejpt.lab.10.md)                                                              | eJPT  |
+| - [Windows: IIS Server DAVTest](INE/eJPT/ine.ejpt.lab.11.md)                                                               | eJPT  |
 ---
