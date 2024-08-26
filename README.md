@@ -31,4 +31,5 @@ This repository has all the writeups and walkthroughs of machines and Labs from 
 | - [Windows: IIS Server DAVTest](INE/eJPT/ine.ejpt.lab.11.md)                                                               | eJPT  |
 | - [SMB Server PSexec](INE/eJPT/ine.ejpt.lab.12.md)                                                                         | eJPT  |
 | - [Windows: Insecure RDP Service](INE/eJPT/ine.ejpt.lab.13.md)                                                             | eJPT  |
+| - [UAC Bypass: UACMe](INE/eJPT/ine.ejpt.lab.14.md)                                                                         | eJPT  |
 ---
