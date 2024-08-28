@@ -34,4 +34,5 @@ This repository has all the writeups and walkthroughs of machines and Labs from 
 | - [UAC Bypass: UACMe](INE/eJPT/ine.ejpt.lab.14.md)                                                                         | eJPT  |
 | - [Token Impersonation](INE/eJPT/ine.ejpt.lab.15.md)                                                                       | eJPT  |
 | - [Windows: Meterpreter: Kiwi Extension](INE/eJPT/ine.ejpt.lab.16.md)                                                      | eJPT  |
+| - [ShellShock](INE/eJPT/ine.ejpt.lab.17.md)                                                                                | eJPT  |
 ---
