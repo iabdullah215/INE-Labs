@@ -39,4 +39,5 @@ This repository has all the writeups and walkthroughs of machines and Labs from 
 | - [Exploiting Setuid Programs](INE/eJPT/ine.ejpt.lab.19.md)                                                                | eJPT  |
 | - [NETBios Hacking](INE/eJPT/ine.ejpt.lab.20.md)                                                                           | eJPT  |
 | - [SNMP Analysis](INE/eJPT/ine.ejpt.lab.21.md)                                                                             | eJPT  |
+| - [DNS & SMB Relay Attack](INE/eJPT/ine.ejpt.lab.22.md)                                                                    | eJPT  |
 ---
