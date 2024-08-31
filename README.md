@@ -37,4 +37,5 @@ This repository has all the writeups and walkthroughs of machines and Labs from 
 | - [ShellShock](INE/eJPT/ine.ejpt.lab.17.md)                                                                                | eJPT  |
 | - [Cron Jobs Gone Wild II](INE/eJPT/ine.ejpt.lab.18.md)                                                                    | eJPT  |
 | - [Exploiting Setuid Programs](INE/eJPT/ine.ejpt.lab.19.md)                                                                | eJPT  |
+| - [NETBios Hacking](INE/eJPT/ine.ejpt.lab.20.md)                                                                           | eJPT  |
 ---
