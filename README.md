@@ -41,4 +41,5 @@ This repository has all the writeups and walkthroughs of machines and Labs from 
 | - [SNMP Analysis](INE/eJPT/ine.ejpt.lab.21.md)                                                                             | eJPT  |
 | - [DNS & SMB Relay Attack](INE/eJPT/ine.ejpt.lab.22.md)                                                                    | eJPT  |
 | - [Importing NMAP scans in metasploit](INE/eJPT/ine.ejpt.lab.23.md)                                                        | eJPT  |
+| - [T1046 : Network Service Scanning](INE/eJPT/ine.ejpt.lab.24.md)                                                          | eJPT  |
 ---
