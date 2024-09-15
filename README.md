@@ -43,4 +43,5 @@ This repository has all the writeups and walkthroughs of machines and Labs from 
 | - [Importing NMAP scans in metasploit](INE/eJPT/ine.ejpt.lab.23.md)                                                        | eJPT  |
 | - [T1046 : Network Service Scanning](INE/eJPT/ine.ejpt.lab.24.md)                                                          | eJPT  |
 | - [Postfix Recon](INE/eJPT/ine.ejpt.lab.25.md)                                                                             | eJPT  |
+| - [Windows: HTTP File Server](INE/eJPT/ine.ejpt.lab.26.md)                                                                 | eJPT  |
 ---
