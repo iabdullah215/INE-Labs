@@ -202,7 +202,7 @@ Microsoft Windows [Version 6.3.9600]
 (c) 2013 Microsoft Corporation. All rights reserved.
 
 C:\Windows\system32>net user administrator n0tabdu11ah_MNM
-net user administrator !abdu11ah
+net user administrator n0tabdu11ah_MNM
 The command completed successfully.
 ```
 
