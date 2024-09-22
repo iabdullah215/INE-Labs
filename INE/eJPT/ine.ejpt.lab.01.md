@@ -76,7 +76,7 @@ From 10.10.39.1 icmp_seq=3 Destination Port Unreachable
 3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2082ms
 ```
 
-## -Pn Flag:
+## -Pn:
 
 ```console
 ┌──(root㉿INE)-[~]
