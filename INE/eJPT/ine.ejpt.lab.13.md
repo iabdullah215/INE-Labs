@@ -27,6 +27,8 @@ Exam: eJPT (Jr. Penetartion Tester)
 
 ---
 
+## Flag:
+
 ![image](https://github.com/user-attachments/assets/897eb300-213e-45ce-b135-d27ab5df9cec)
 
 ---
