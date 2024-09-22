@@ -45,4 +45,5 @@ This repository has all the writeups and walkthroughs of machines and Labs from 
 | - [Postfix Recon](INE/eJPT/ine.ejpt.lab.25.md)                                                                             | eJPT  |
 | - [Windows: HTTP File Server](INE/eJPT/ine.ejpt.lab.26.md)                                                                 | eJPT  |
 | - [Enabling RDP](INE/eJPT/ine.ejpt.lab.27.md)                                                                              | eJPT  |
+| - [Pivoting](INE/eJPT/ine.ejpt.lab.28.md)                                                                                  | eJPT  |
 ---
