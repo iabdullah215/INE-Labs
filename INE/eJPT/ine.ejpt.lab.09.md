@@ -125,7 +125,8 @@ Nmap done: 1 IP address (1 host up) scanned in 2.38 seconds
 
 ```console
 ┌──(root㉿INE)-[~]
-└─# nmap -p 22 --script ssh-auth-methods --script-args="ssh.user=student" demo.ine.localStarting Nmap 7.94SVN ( https://nmap.org ) at 2024-08-23 18:23 IST
+└─# nmap -p 22 --script ssh-auth-methods --script-args="ssh.user=student" demo.ine.local
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-08-23 18:23 IST
 Nmap scan report for demo.ine.local (192.254.69.3)
 Host is up (0.000053s latency).
 
